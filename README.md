@@ -10,10 +10,6 @@ Meu portfólio de projetos de Data Science
 # Phellipe Lisbôa
 <sub>*Cientista de dados* em formação</sub>
 
-Descrição sobre mim.
-
-**Background in:** Python.
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/phellipe-lisbôa/)
 * [Medium](https://medium.com/@phellipelisboa.dev)
