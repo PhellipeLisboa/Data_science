@@ -17,7 +17,7 @@ Meu portfólio de projetos de Data Science
 
 ## Projetos:
 
-* **Meu primeiro projeto:** link
+* [Análise dos Dados do Airbnb - Tóquio](https://bit.ly/4dp9Og1)
 
 ---
 
